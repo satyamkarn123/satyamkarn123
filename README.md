@@ -9,15 +9,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DSA & Problem Solving**
-- 🌱 I’m learning **Backend Services**
+- 🔭 Currently working on **Data Structures & Algorithms**
+- 🌱 Learning **Backend Services (Node.js & Express)**
 - 💬 Ask me about **DSA, JavaScript, React**
 - 📫 Reach me at **satyamkarn427@gmail.com**
 - ⚡ Fun fact: **I am Unstopable!**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satyam-kumar-a39b1125a/" target="_blank">
@@ -26,12 +26,7 @@
   <a href="https://leetcode.com/u/SATYAM9089" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  
 </p>
-
----
-
-### 🛠️ Languages and Tools
 
 ---
 
@@ -39,9 +34,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -64,9 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkarn123
-&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkarn123&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamkarn123&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+---
+
+⭐️ Don't forget to star this profile if you like it!
