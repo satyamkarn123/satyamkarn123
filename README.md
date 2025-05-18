@@ -68,5 +68,5 @@
 &layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamkarn9693&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamkarn123&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
